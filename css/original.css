@@ -346,7 +346,7 @@ step4
 /*----------------------------------------------------------------------
 movie
 ----------------------------------------------------------------------*/
-#movie01,#movie02,#movie03{
+#movie01,#movie02,#movie03,#movie04{
 		margin-bottom: 40px !important;
 	}
 
@@ -453,6 +453,3 @@ course
 	background-color:#e3e4c6;
 	font-size:12px;
 }
-
-
-

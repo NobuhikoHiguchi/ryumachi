@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channel domain="null" showDomainLogo="false">
-    <pickup path="/movie/content/type-c.html">
+    <pickup path="/movie/content/type-c0.html">
         <thumbnail href="/movie/imgs/pickup.jpg"/>
-        <title>おしえてリウマチ体操 全編（約13分）</title>
-        <description>おしえてリウマチ体操はリウマチ患者さんのリハビリにご活用いただけるように制作しました。&lt;br /&gt;
-できるだけ毎日、無理のない範囲で継続していただけると効果的です。</description>
+        <title>我那覇美奈と踊る リウマチ体操（約8分）</title>
+        <description>関節リウマチ患者さんがご自宅で簡単にできるリウマチ体操を歌手の我那覇美奈さんの歌にのせてご紹介します。 関節リウマチの痛みや炎症は薬でやわらげることができるようになってきました。&lt;br /&gt;
+                     また、適度な運動により、関節の機能や筋力を維持することができると言われています。 主治医の先生にご相談の上、できれば毎日、無理のない範囲で楽しく運動を続けましょう。&lt;br /&gt;&lt;br /&gt;歌：我那覇美奈&lt;br /&gt;作曲：小林俊太郎</description>
     </pickup>
 	<category name="おしえてリウマチ">
 		<subCategory name="お役立ち情報">
+      <contents path="/movie/content/type-c0.html">
+				<description>我那覇美奈と踊る リウマチ体操（約8分）</description>
+			</contents>
 			<contents path="/movie/content/type-c.html">
 				<description>おしえてリウマチ体操 全編（約13分）</description>
 			</contents>
