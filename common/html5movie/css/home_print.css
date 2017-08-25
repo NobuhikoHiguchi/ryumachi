@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+@media print{
+
+/* panel A
+-----------------------------------------------*/
+.home #mainVisual img{
+position:static;
+}
+
+
+/* panel B
+-----------------------------------------------*/
+.home #panelB{
+width:996px;
+height:238px;
+}
+
+
+/* panel C & E & contents
+-----------------------------------------------*/
+.home #contents{
+width:996px;
+}
+
+.home #contents #primaryContents{
+width:744px;
+float:right;
+}
+
+.home #contents #mainContents{
+float:left;
+}
+
+.home #panelE{
+width:216px;
+float:right;
+display:block;
+}
+
+/* panel D
+-----------------------------------------------*/
+.home #panelD{
+width:996px;
+}
+
+}

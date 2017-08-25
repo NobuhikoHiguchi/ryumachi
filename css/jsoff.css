@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/*-----------------------------------------------------------------------
+
+JavaScript off setting
+
+----------------------------------------------------------------------*/
+
+#footer-link dl.accordion dt span {
+	background: url(/imgs/common/sp/icn_open.png) 6% center no-repeat;
+}
+
+dl.accordion dd{
+	display:inline !important;
+}

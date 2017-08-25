@@ -1,0 +1,173 @@
+@charset "utf-8";
+
+
+/* base
+-----------------------------------------------*/
+html:not(:target){
+font-size:16px;
+}
+
+body {
+background:#fff;
+font-size:10pt !important;
+
+}
+
+a {
+text-decoration:underline !important;
+}
+
+
+/* panel A
+-----------------------------------------------*/
+#panelA{
+margin:0;
+width:600px;
+}
+
+#ci{
+position:static;
+padding:24px;
+}
+
+#utilityNav{
+display:none;
+}
+
+.fontsizer{
+display:none;
+}
+
+/* ========== hiddenNav ========== */
+#hiddenNav{
+display:none;
+}
+
+
+/* panel B
+-----------------------------------------------*/
+#panelB{
+margin:0;
+/* padding-top:0; */
+padding-bottom:19px;
+width:600px;
+height:auto;
+background-image:none;
+}
+#mainVisual{
+position:static;
+}
+
+#globalNav{
+display:none;
+
+}
+
+#topicPath{
+padding-right:0;
+padding-left:0;
+width:600px;
+float:none;
+}
+
+#externalSiteNav{
+display:none
+}
+
+
+/* panel C & E & contents
+-----------------------------------------------*/
+#contents{
+margin:0;
+width:600px;
+}
+
+.popupLarge #contents {
+_width:600px;
+}
+
+#contents #primaryContents {
+width:600px;
+padding-bottom:20px;
+float:none;
+}
+
+/* ========== mainContents ========== */
+#contents #mainContents{
+float:none;
+}
+
+#contents #mainContentsLarge {
+width:600px;
+float:none;
+}
+
+
+/* ========== panelC ========== */
+#panelC{
+display:none;
+}
+
+
+/* ========== panelE ========== */
+#panelE{
+display:none;
+}
+
+
+/* panel D
+-----------------------------------------------*/
+#panelD{
+margin:0;
+width:600px;
+}
+
+#pageTop{
+display:none;
+}
+
+#windowClose{
+display:none;
+}
+
+#footer{
+border-top:1px solid #000;
+background:none;
+}
+
+#footerNav{
+display:none;
+}
+
+#copyright{
+position:static;
+}
+
+
+/* un maincontents
+-----------------------------------------------*/
+/* ========== insiteSearch ========== */
+#insiteSearch{
+display:none;
+}
+
+
+/* ========== functionList ========== */
+.functionList{
+display:none
+}
+
+.adobeReader {
+display:none
+}
+
+
+/* etc
+-----------------------------------------------*/
+a[href="javascript:window.print();"]{
+display:none;
+}
+
+.targetPrint {
+display:none;
+}

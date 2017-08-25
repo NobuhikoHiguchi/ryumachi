@@ -1,0 +1,139 @@
+@charset "utf-8";
+
+
+/* panel A
+-----------------------------------------------*/
+#panelA{
+margin:auto;
+border-bottom:1px solid #7fb2e5;
+width:600px;
+height:84px;
+position:relative;
+background:#fff;
+}
+.popupLarge #panelA{
+width:768px;
+}
+
+#ci{
+position:absolute;
+top:24px;
+left:24px;
+}
+
+.fontsizer{
+position:absolute;
+top:30px;
+right:24px;
+}
+.fontsizer ul{
+margin-bottom:0;
+margin-left:24px;
+}
+.fontsizer ul li{
+display:-moz-inline-box;
+display:inline-block;
+/display:inline;
+zoom:1;
+}
+.fontsizer ul li.fontSizeNormal{
+padding:0 11px;
+background:url(/common/images/a_font-sizer_bg01.gif) no-repeat center;
+}
+#english .fontsizer ul li.fontSizeNormal{
+background:url(/english/common/images/a_font-sizer_bg01.gif) no-repeat center;
+}
+.fontsizer img{
+display:block;
+vertical-align:top;
+}
+
+
+/* contents
+-----------------------------------------------*/
+#contents{
+margin:auto;
+padding:26px 24px 0;
+width:552px;
+background:#fff;
+min-height:300px;
+_height:300px;
+}
+.popupLarge #contents{
+width:720px;
+}
+
+h1#pageTitle{
+margin-bottom:24px;
+color:#003e22;
+font-size:150%;
+font-weight:bold;
+}
+
+/* SubContents
+-----------------------------------------------*/
+#subContents .adobeReader{
+width:552px;
+zoom:1;
+font-size:87.5%;
+margin-top:24px;
+}
+#subContents .adobeReader:after{
+height:0;
+display:block;
+clear:both;
+visibility:hidden;
+content:".";
+line-height:0; 
+}
+#subContents .adobeReader .banner{
+width:88px;
+float:left;
+}
+#subContents .adobeReader .text{
+width:452px;
+float:right;
+}
+
+/* panel D
+-----------------------------------------------*/
+#panelD{
+margin:auto;
+padding-top:16px;
+width:600px;
+background:#fff;
+}
+.popupLarge #panelD{
+width:768px;
+}
+
+#pageTop{
+margin-bottom:25px;
+padding-right:24px;
+text-align:right;
+float:right;
+font-size:90%;
+}
+
+#windowClose{
+margin-bottom:20px;
+clear:both;
+text-align:center;
+}
+
+#footer{
+padding:16px 23px 6px;
+background:url(../images/d_popup_bg01.gif) repeat-x left top;
+}
+
+#copyright{
+text-align:right;
+}
+
+/* contents CloseBtnArea for(DI/Domains/SafetyInfo)
+-----------------------------------------------*/
+#contents #closeBtnArea #windowClose{
+margin-bottom:0;
+padding-top:16px;
+padding-bottom:4px;
+}
