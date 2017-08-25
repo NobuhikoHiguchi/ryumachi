@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content type="c" domain="null" enableFullScreen="true" showDomainLogo="false" rootMenu="http://chugai-pharm.jp/pr/infect/tam/popup/all_chapter/index.html" rootMenuXml="root_menu.xml">
+  <data>
+      <title><![CDATA[おしえてリウマチ体操 上半身の運動]]></title>
+      <description><![CDATA[おしえてリウマチ体操 上半身の運動]]></description>
+  </data>
+  <movie videourl="http://web-cache.stream.ne.jp/www09/chugai/med/pr/bone/act/listpopup/ill/rhb/rhb002/rhb002_01.mp4" filename="http://web-cache.stream.ne.jp/www09/chugai/med/pr/bone/act/listpopup/ill/rhb/rhb002/rhb002_01.mp4" width="920" height="517" quality ="0" />
+</content>

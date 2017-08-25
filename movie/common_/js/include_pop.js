@@ -1,0 +1,14 @@
+document.write('<script type="text/javascript" src="../../../../../../../../common/js/jquery.js"></script>');
+document.write('<script type="text/javascript" src="../../../../../../../../common/js/popupwindow.js"></script>');
+document.write('<script type="text/javascript" src="../../../../../../../../common/js/accordion.js"></script>');
+document.write('<script type="text/javascript" src="../../../../../../../../common/js/swfobject.js"></script>');
+document.write('<script type="text/javascript" src="../../../../../../../../common/js/font-resizer-script.js"></script>');
+document.write('<script type="text/javascript" src="../../../../../../../../common/js/jquery.lightbox-0.5.js"></script>');
+document.write('<script type="text/javascript" src="../../../../../../../../common/js/icon.js"></script>');
+document.write('<link rel="stylesheet" type="text/css" href="../../../../../../../../common/css/jquery.lightbox-0.5.css" media="screen" />');
+document.write('<script type="text/javascript" src="../../../../../../../../common/js/rollover.js"></script>');
+document.write('<script type="text/javascript" src="../../../../../../../../common/js/mm_swap.js"></script>');
+document.write('<script type="text/javascript" src="../../../../../../../../common/js/ie6csshover.htc"></script>');
+document.write('<script type="text/javascript" src="../../../../../../../../common/js/pagetop.js"></script>');
+document.write('<script type="text/javascript" src="../../../../../../../../common/js/toolTip.js"></script>');
+document.write('<script type="text/javascript" src="../../../../../../../../common/js/blank.js"></script>');

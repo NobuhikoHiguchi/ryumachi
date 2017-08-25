@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channel domain="null" showDomainLogo="false">
+    <pickup path="/movie/content/type-c.html">
+        <thumbnail href="/movie/imgs/pickup.jpg"/>
+        <title>おしえてリウマチ体操 全編（約13分）</title>
+        <description>おしえてリウマチ体操はリウマチ患者さんのリハビリにご活用いただけるように制作しました。&lt;br /&gt;
+できるだけ毎日、無理のない範囲で継続していただけると効果的です。</description>
+    </pickup>
+	<category name="おしえてリウマチ">
+		<subCategory name="お役立ち情報">
+			<contents path="/movie/content/type-c.html">
+				<description>おしえてリウマチ体操 全編（約13分）</description>
+			</contents>
+			<contents path="/movie/content/type-c2.html">
+				<description>おしえてリウマチ体操 上半身（約9分）</description>
+			</contents>
+			<contents path="/movie/content/type-c3.html">
+				<description>おしえてリウマチ体操 下半身（約4分）</description>
+			</contents>
+		</subCategory>
+	</category>
+</channel>
