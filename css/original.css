@@ -453,3 +453,7 @@ course
 	background-color:#e3e4c6;
 	font-size:12px;
 }
+
+.kouzacolor a:link { color:#0000ff; }
+.kouzacolor a:hover { color:#0000ff; }
+.kouzacolor a:visited { color:#0000ff; }
